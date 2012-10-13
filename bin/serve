@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 server = require('../server/server.js');
 
-server({ port : 4444, dev : true });
+server({ port : 6444, dev : true });
